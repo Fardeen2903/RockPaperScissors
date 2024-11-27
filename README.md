@@ -19,7 +19,7 @@ To run the Rock, Paper, Scissors game, you need to have Python and the Pygame li
 ### Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/your-username/RockPaperScissors.git
+git clone https://github.com/Fardeen2903/RockPaperScissors.git
 cd RockPaperScissors
 ```
 
@@ -36,7 +36,7 @@ pip install pygame
 Once the dependencies are installed, you can run the game by executing the following command:
 
 ```bash
-python game.py
+python RPS.py
 ```
 
 ### Step 4: Play the game
