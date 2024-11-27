@@ -1,7 +1,6 @@
 # RockPaperScissors
 simple rock paper scissors game in python
 
-```markdown
 This is a simple Python-based Rock, Paper, Scissors game using the Pygame library. The game allows the user to play against the computer and shows ASCII art of the user's and computer's choices side by side. It also displays the result of each round (User wins, Computer wins, or Draw).
 
 ## Features
